@@ -1,0 +1,6 @@
+server:
+  port: 8091
+
+custom:
+  api:
+    version: 2
